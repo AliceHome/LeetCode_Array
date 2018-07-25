@@ -101,7 +101,6 @@ numbers = [1,2,3,4,5,6,7]
 rotate(&numbers, 3  )
 numbers
 
-
-
-
+//: 思路三 优化
+//使用 swapAt 代替自己实现的数组元素交换函数
 //: [Next](@next)
