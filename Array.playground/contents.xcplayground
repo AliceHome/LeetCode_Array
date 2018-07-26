@@ -3,5 +3,6 @@
     <pages>
         <page name='singleNumber'/>
         <page name='rotate'/>
+        <page name='intersect'/>
     </pages>
 </playground>
