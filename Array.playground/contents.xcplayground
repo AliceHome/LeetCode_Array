@@ -4,5 +4,6 @@
         <page name='singleNumber'/>
         <page name='rotate'/>
         <page name='intersect'/>
+        <page name='twoSum'/>
     </pages>
 </playground>
